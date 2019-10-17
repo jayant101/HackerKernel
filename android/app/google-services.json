@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431728462682",
+    "firebase_url": "https://hackerkernel-d20d7.firebaseio.com",
+    "project_id": "hackerkernel-d20d7",
+    "storage_bucket": "hackerkernel-d20d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431728462682:android:fd0e433e90cc5e6f78c163",
+        "android_client_info": {
+          "package_name": "com.example.hackerkernel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431728462682-at31ubrg15gcl16ogggjfsd26dlh0j7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackerkernel",
+            "certificate_hash": "e9310bb533765934b90dfe455e9e3e2137badbfc"
+          }
+        },
+        {
+          "client_id": "431728462682-du15kq8a4i01t4s58cljolgn5ssloqia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmN6jsKnClT6fc_lFlWm1jL7fd_EeRGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431728462682-du15kq8a4i01t4s58cljolgn5ssloqia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
